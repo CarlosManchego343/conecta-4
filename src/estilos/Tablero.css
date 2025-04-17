@@ -1,0 +1,10 @@
+.tablero {
+    background-color: #4c0303;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.fila {
+    display: flex;
+}
